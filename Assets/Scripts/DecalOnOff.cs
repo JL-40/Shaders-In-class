@@ -8,7 +8,7 @@ public class DecalOnOff : MonoBehaviour
     Material mat;
     bool showDecal = false;
 
-    private void OnMouseDown()
+    void OnMouseDown()
     {
         showDecal = !showDecal;
         if (showDecal)
@@ -21,11 +21,5 @@ public class DecalOnOff : MonoBehaviour
     void Start()
     {
         mat = GetComponent<Renderer>().sharedMaterial;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
