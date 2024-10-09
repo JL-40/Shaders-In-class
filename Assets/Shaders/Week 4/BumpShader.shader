@@ -1,4 +1,4 @@
-Shader "DiffuseShader"
+Shader "BumpShader"
 {
     Properties {
         _myDiffuse ("Diffuse Texture", 2D) = "white" {}
