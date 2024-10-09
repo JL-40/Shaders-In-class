@@ -1,4 +1,4 @@
-Shader "Custom/Alpha"
+Shader "Custom/HologramShader"
 {
     Properties
     {
