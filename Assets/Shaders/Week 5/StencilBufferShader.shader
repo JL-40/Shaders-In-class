@@ -1,4 +1,4 @@
-Shader "StencilBufferShader"
+Shader "Week5/StencilBufferShader"
 {
     Properties
     {

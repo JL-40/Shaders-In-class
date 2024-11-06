@@ -1,4 +1,4 @@
-Shader "StandardSpecularPBR"
+Shader "Week5/StandardSpecularPBR"
 {
     Properties
     {

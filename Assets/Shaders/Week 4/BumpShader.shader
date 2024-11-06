@@ -1,4 +1,4 @@
-Shader "BumpShader"
+Shader "Week4/BumpShader"
 {
     Properties {
         _myDiffuse ("Diffuse Texture", 2D) = "white" {}

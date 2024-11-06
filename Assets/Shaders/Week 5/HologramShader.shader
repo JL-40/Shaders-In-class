@@ -1,4 +1,4 @@
-Shader "HologramShader"
+Shader "Week5/HologramShader"
 {
     Properties
     {

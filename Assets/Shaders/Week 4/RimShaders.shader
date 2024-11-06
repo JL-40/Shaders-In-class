@@ -1,4 +1,4 @@
-Shader "RimShaders"
+Shader "Week4/RimShaders"
 {
     Properties
     {

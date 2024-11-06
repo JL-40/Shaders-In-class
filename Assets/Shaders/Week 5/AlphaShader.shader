@@ -1,4 +1,4 @@
-Shader "AlphaShader"
+Shader "Week5/AlphaShader"
 {
     Properties
     {

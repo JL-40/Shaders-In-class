@@ -1,4 +1,4 @@
-Shader "LUTShader"
+Shader "Week5/LUTShader"
 {
     Properties
     { 

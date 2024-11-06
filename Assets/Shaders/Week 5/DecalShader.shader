@@ -1,4 +1,4 @@
-Shader "DecalShader"
+Shader "Week5/DecalShader"
 {
     Properties
     {

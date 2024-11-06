@@ -1,4 +1,4 @@
-Shader "WallShader"
+Shader "Week5/WallShader"
 {
     Properties
     {

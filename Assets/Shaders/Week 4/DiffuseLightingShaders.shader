@@ -1,4 +1,4 @@
-Shader "DiffuseLightingShaders"
+Shader "Week4/DiffuseLightingShaders"
 {
     Properties
     {

@@ -1,4 +1,4 @@
-Shader "PhongShaders"
+Shader "Week4/PhongShaders"
 {
     Properties
     {

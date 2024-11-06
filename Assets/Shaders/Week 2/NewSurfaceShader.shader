@@ -1,4 +1,4 @@
-Shader "ComputerGraphicShaders"
+Shader "Week2/ComputerGraphicShaders"
 {
   Properties {
 	  _myColor ("Sample Color", Color) = (1,1,1,1)
